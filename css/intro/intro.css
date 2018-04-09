@@ -8,11 +8,16 @@
 }
 
 .intro__block {
+  display: none;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.showed {
+  display: block;
 }
 
 .animated {
