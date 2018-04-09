@@ -3,7 +3,9 @@
   top: 38px;
   right: -9999px;
   font-size: 14px;
-  padding: 10px 10px;
+  padding: 10px 15px;
+  min-width: 160px;
+  white-space: nowrap;
   border-radius: 3px;
   box-shadow: 0 0 10px 0 rgba(23, 59, 117, 0.55);
   line-height: 1.6;

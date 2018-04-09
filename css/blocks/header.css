@@ -13,9 +13,12 @@
   width: 50%;
 }
 
-.contacts__phone,
-.contacts__desc {
+.contacts__phone {
   display: block;
+}
+
+.contacts__desc {
+  display: inline-block;
 }
 
 .logo {

@@ -15,8 +15,8 @@
   text-align: center;
 }
 
-.intro__anim {
-  animation: intro-anim 0.8s;
+.animated {
+  animation: intro-anim 1s;
 }
 
 .intro__logo {
