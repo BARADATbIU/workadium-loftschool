@@ -6,4 +6,4 @@
 
 **Description:** Float, Animation
 
-**GitHub Pages:** [orkadium-loftschool](https://baradatbiu.github.io/workadium-loftschool/)
+**GitHub Pages:** [workadium-loftschool](https://baradatbiu.github.io/workadium-loftschool/)
